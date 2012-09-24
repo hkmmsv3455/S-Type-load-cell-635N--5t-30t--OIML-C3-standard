@@ -1,0 +1,4 @@
+S-Type-load-cell-635N--5t-30t--OIML-C3-standard
+===============================================
+
+PARAMETER UNIT TECHNICAL DATA Rated capacity (Emax) kg 5,000...30,000 Accuracy class C3Sensitivity mV/V 2.0 ±10% Zero balance mV/V0.02Creep over 30min %0.02Temperature effect on zero %/ 0.004Temperature effect on output %/ 0.0017Hysteresis % 0.017Linearity deviation % 0.017Repeatability % 0.017Nominal temperature range -10 to +40 Service temperature range -30 to +65 Limit load % of R.C. 150Break load % of R.C. 200Nominal excitation V 5~12 Max. excitation V 18Input impedance 350± 10 Output impedance 350 ±3 Insulation resistance M 2000 Cable length M 0.5Cable type 4 conductors, Braid Shielded, Black PVC Jacket Color code +Exc -Red, +Sig-grn, -Exc-Blk, -Sig- Wht http://www.hzloadcell.com/pid11486988/S+Type+load+cell-635N%3a+5t%7e30t%2c+OIML+C3+standard.htm
